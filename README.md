@@ -1,3 +1,9 @@
+Al-Qur'an sebagai Arsip Peradaban
+Dalam perspektif teori ini, Al-Qur'an dapat dipahami sebagai bentuk arsip nilai yang paling stabil.
+Al-Qur'an tidak hanya menyimpan ajaran.
+Al-Qur'an juga menyimpan kisah, prinsip, peringatan, dan petunjuk yang dapat digunakan lintas zaman.
+Karena itu Al-Qur'an berfungsi sebagai referensi utama dalam proses kalibrasi peradaban.
+
 # BRIGHT-HUMAN-THEORI
 MENGEMBANGKAN TEORI BRIGHT HUMAN, DALAM KEADAAN INDEKS PEMBANGUNA MANUSIA YANG RENDAH
 The Bright Human Framework: Quranic Principles for AI Alignment
